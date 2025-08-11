@@ -1,6 +1,6 @@
 # 🏃‍♂️ Marathon Management System
 
-🔗 **Live Site URL:**        
+🔗 **Live Site URL:**      https://assigment11-udate-scic.web.app   
 
 ## 📌 Project Overview
 

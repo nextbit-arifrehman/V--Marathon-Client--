@@ -1,9 +1,9 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
-import { AuthProvider } from './context/AuthContext.jsx';
-import { MarathonProvider } from './context/MarathonContext.jsx';
-import { ApplicationProvider } from './context/ApplicationContext.jsx';
-import { ThemeProvider } from './context/ThemeContext.jsx';
+// import React from 'react';
+// import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+// import { AuthProvider } from './context/AuthContext.jsx';
+// import { MarathonProvider } from './context/MarathonContext.jsx';
+// import { ApplicationProvider } from './context/ApplicationContext.jsx';
+// import { ThemeProvider } from './context/ThemeContext.jsx';
 import Home from './pages/Home.jsx';
 import Login from './pages/Login.jsx';
 import Register from './pages/Register.jsx';
